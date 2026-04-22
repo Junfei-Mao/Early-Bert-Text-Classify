@@ -1,0 +1,5 @@
+torch>=1.10
+transformers>=4.5,<5
+numpy>=1.21
+scikit-learn>=1.0
+Flask>=2.0
