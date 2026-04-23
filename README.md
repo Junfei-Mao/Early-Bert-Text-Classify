@@ -1,6 +1,7 @@
 # BERT Text Classification
 
 怀念手撸代码的日子吗？那就来看看这个：
+
 一个基于 `bert-base-chinese` 的中文文本分类项目，适合做工单分派、诉求归类、短文本分类等任务。
 
 这个版本已经做过一轮适合 GitHub 发布的整理，重点包括：
